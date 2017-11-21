@@ -1,0 +1,9 @@
+/Users/Renil/codingStuff/csharp/fundamentals_2/bin/Debug/netcoreapp1.1/fundamentals_2.deps.json
+/Users/Renil/codingStuff/csharp/fundamentals_2/bin/Debug/netcoreapp1.1/fundamentals_2.runtimeconfig.json
+/Users/Renil/codingStuff/csharp/fundamentals_2/bin/Debug/netcoreapp1.1/fundamentals_2.runtimeconfig.dev.json
+/Users/Renil/codingStuff/csharp/fundamentals_2/bin/Debug/netcoreapp1.1/fundamentals_2.dll
+/Users/Renil/codingStuff/csharp/fundamentals_2/bin/Debug/netcoreapp1.1/fundamentals_2.pdb
+/Users/Renil/codingStuff/csharp/fundamentals_2/obj/Debug/netcoreapp1.1/fundamentals_2.csproj.CoreCompileInputs.cache
+/Users/Renil/codingStuff/csharp/fundamentals_2/obj/Debug/netcoreapp1.1/fundamentals_2.AssemblyInfo.cs
+/Users/Renil/codingStuff/csharp/fundamentals_2/obj/Debug/netcoreapp1.1/fundamentals_2.dll
+/Users/Renil/codingStuff/csharp/fundamentals_2/obj/Debug/netcoreapp1.1/fundamentals_2.pdb
